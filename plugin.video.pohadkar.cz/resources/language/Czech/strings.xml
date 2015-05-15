@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<strings>
-	<string id="30000">Počet zapamatovaných hledání</string>
-	<string id="30001">Video není dostupné, zkontrolujte,[CR]zda funguje přehrávání na webu.</string>
-	<string id="30012">[B]Další[/B]</string>
-	<string id="30050">* Přehrát všechno *</string>
-	<string id="31000">Data o použití jsou zaslána v okamžiku, kdy spustíte přehrávání nebo stahování videa doplňkem. Není odesílána informace o tom, co přehráváte.</string>
-</strings>
